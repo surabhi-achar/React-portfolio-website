@@ -13,7 +13,7 @@ function Contact() {
 
     emailjs
       .sendForm("service_g87846o", "template_0g77b4v", form.current, {
-        publicKey: "hzwOfwWyf_abx0upjjUAM",
+        publicKey: "31oUWcYzJ7BBcj0GH",
       })
       .then(
         () => {
