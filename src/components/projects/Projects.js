@@ -53,8 +53,8 @@ function Projects() {
 Integrated direct email functionality to facilitate seamless communication, allowing visitors to easily reach out for inquiries or collaborations.
 Ensured the portfolio is responsive and mobile-friendly, optimizing the viewing experience across a wide range of devices."
         img={portfolio}
-        git=""
-        link="https://mamtapoojary13.github.io/portfolio/"
+        git="https://github.com/surabhi-achar/Portfolio-React-website"
+        link=""
       />
      <Project
         title="Tourism Website"
