@@ -12,7 +12,7 @@ function Contact() {
     e.preventDefault();
 
     emailjs
-      .sendForm("service_g87846o", "template_0g77b4v", form.current, {
+      .sendForm("service_nwuv5cq", "template_0g77b4v", form.current, {
         publicKey: "31oUWcYzJ7BBcj0GH",
       })
       .then(
