@@ -27,7 +27,7 @@ function Projects() {
         Ensured data persistence across sessions with local storage and improved code quality with thorough testing and TypeScript."
         img={todo}
         git="https://github.com/surabhi-achar/Typescript-react-todo-list"
-        link=""
+        link="https://surabhi-achar.github.io/Typescript-react-todo-list/"
       />
        <Project
         title="Magento Integrated E-commerce Platform:"
@@ -44,8 +44,8 @@ function Projects() {
         Integrated a robust search feature allowing users to easily find specific articles or topics of interest within the app.
         Designed with a minimalist and user-friendly interface to ensure effortless news browsing, emphasizing readability and ease of navigation."
         img={news}
-        git="https://github.com/surabhi-achar/React-News-app"
-        link=""
+        git="https://github.com/surabhi-achar/news-app-react"
+        link="https://newsapp-react-api.netlify.app/"
       />
       <Project
         title="Portfolio(This Website)"
@@ -71,7 +71,7 @@ Ensured the portfolio is responsive and mobile-friendly, optimizing the viewing 
         Designed a user-friendly interface with responsive design, ensuring seamless user experience across different devices and screen sizes."
         img={calc}
         git="https://github.com/surabhi-achar/react-calcuclator"
-        link=""
+        link="https://surabhi-achar.github.io/react-calcuclator/"
       />
 <Project
         title="Product Management System with Code-first approach"
@@ -85,8 +85,8 @@ Ensured the portfolio is responsive and mobile-friendly, optimizing the viewing 
         desc="Developed a dynamic weather application using React, integrating real-time weather data from external APIs for accurate and up-to-date forecasts.
         Designed a clean and intuitive user interface, providing users with easy access to current weather conditions, forecasts, and location-based weather information."
         img={weath}
-        git="https://github.com/surabhi-achar/react-weather-apps"
-        link=""
+        git="https://github.com/surabhi-achar/React-weather-app"
+        link="https://surabhi-achar.github.io/React-weather-app/  "
       />
     <Project
         title="Schema-First Approach with NestJS and GraphQL"
