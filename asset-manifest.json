@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/React-portfolio-website/static/css/main.1bad6b4e.css",
+    "main.js": "/React-portfolio-website/static/js/main.0f29a803.js",
+    "static/media/bg.png": "/React-portfolio-website/static/media/bg.c63bdea989b8af6fee92.png",
+    "static/media/calc.jpg": "/React-portfolio-website/static/media/calc.ea237bbe3f69582024a5.jpg",
+    "static/media/tour.jpg": "/React-portfolio-website/static/media/tour.eee3fbe5de21852c5cba.jpg",
+    "static/media/ecom.jpg": "/React-portfolio-website/static/media/ecom.cdf1771e895bae936065.jpg",
+    "static/media/code.png": "/React-portfolio-website/static/media/code.835aae1e80c4bcdded4e.png",
+    "static/media/instagram.png": "/React-portfolio-website/static/media/instagram.224953398a81383bdda9.png",
+    "static/media/news.jpg": "/React-portfolio-website/static/media/news.a0c32bc63405340eb80f.jpg",
+    "static/media/portfolio.jpeg": "/React-portfolio-website/static/media/portfolio.0d9fec4f346d7429a007.jpeg",
+    "static/media/api.png": "/React-portfolio-website/static/media/api.f4fe9fc243e0cb9fb304.png",
+    "static/media/database.png": "/React-portfolio-website/static/media/database.0addd5951031eff7f831.png",
+    "static/media/leetcode.png": "/React-portfolio-website/static/media/leetcode.bdadc1900689720d96fa.png",
+    "static/media/backend.png": "/React-portfolio-website/static/media/backend.7b1f7070ab6850cd4ee4.png",
+    "static/media/frontend.png": "/React-portfolio-website/static/media/frontend.00945673b89ed9afba08.png",
+    "static/media/linkedin.png": "/React-portfolio-website/static/media/linkedin.ae0b7f2cba1fa7b301d0.png",
+    "static/media/twitter.png": "/React-portfolio-website/static/media/twitter.b876c4e02232ff8fafc1.png",
+    "index.html": "/React-portfolio-website/index.html",
+    "main.1bad6b4e.css.map": "/React-portfolio-website/static/css/main.1bad6b4e.css.map",
+    "main.0f29a803.js.map": "/React-portfolio-website/static/js/main.0f29a803.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1bad6b4e.css",
+    "static/js/main.0f29a803.js"
+  ]
+}
