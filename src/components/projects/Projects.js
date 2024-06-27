@@ -54,7 +54,7 @@ Integrated direct email functionality to facilitate seamless communication, allo
 Ensured the portfolio is responsive and mobile-friendly, optimizing the viewing experience across a wide range of devices."
         img={portfolio}
         git="https://github.com/surabhi-achar/Portfolio-react-website"
-        link=""
+        link="https://surabhi-achar.github.io/React-portfolio-website/"
       />
      <Project
         title="Tourism Website"
